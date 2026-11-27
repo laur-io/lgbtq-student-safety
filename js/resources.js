@@ -25,6 +25,7 @@ function card(r) {
       <dt>Provides</dt><dd>${esc(r.provides)}</dd>
       <dt>Best for</dt><dd>${esc(r.bestFor)}</dd>
       <dt>Contact</dt><dd>${esc(r.contact)}</dd>
+      ${r.email ? `<dt>Email</dt><dd><a href="mailto:${esc(r.email)}">${esc(r.email)}</a></dd>` : ''}
       <dt>Website</dt><dd>${link}</dd>
       <dt>Before contacting</dt><dd>${esc(r.know)}</dd>
     </dl>
