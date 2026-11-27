@@ -129,7 +129,7 @@ const RESOURCES = [
     "provides": "Receives reports of discrimination, harassment, and retaliation.",
     "bestFor": "TODO",
     "confidential": null,
-    "contact": "(916) 278-5700",
+    "contact": "(916) 278-5770",
     "email": "equalopportunity@csus.edu",
     "link": "",
     "know": "TODO",
