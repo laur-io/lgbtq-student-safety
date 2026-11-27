@@ -78,3 +78,4 @@ footer p{max-width:1040px;margin:0 auto;padding:1.5rem 1.25rem}
 #top{position:fixed;right:1rem;bottom:1rem;display:none}
 @media (max-width:600px){body{font-size:17px}.res dl{grid-template-columns:1fr}.res dt{margin-top:.4rem}}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}
+.card .btn{margin-top:1rem}
